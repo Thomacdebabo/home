@@ -1,0 +1,14 @@
+https://github.com/Thomacdebabo/zit
+https://github.com/Thomacdebabo/ted
+https://github.com/Thomacdebabo/thomasengineer_clay
+https://github.com/Thomacdebabo/thomas-engineer
+https://github.com/ETH-PBL/Nano-VS-SLAM
+https://github.com/Thomacdebabo/Ubuntu-Setup-Scripts
+https://github.com/Thomacdebabo/tinderify
+https://github.com/Thomacdebabo/VarroAI
+https://github.com/Thomacdebabo/EvolGenAlg
+https://github.com/Thomacdebabo/BackupManager
+https://github.com/Thomacdebabo/ProcessingStuff
+https://github.com/Thomacdebabo/KP2Dtiny
+https://github.com/Thomacdebabo/KP2DSonar
+https://github.com/Thomacdebabo/mySauna
