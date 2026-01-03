@@ -12,3 +12,4 @@ https://github.com/Thomacdebabo/ProcessingStuff
 https://github.com/Thomacdebabo/KP2Dtiny
 https://github.com/Thomacdebabo/KP2DSonar
 https://github.com/Thomacdebabo/mySauna
+https://github.com/Thomacdebabo/bingo.git

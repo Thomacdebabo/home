@@ -7,6 +7,7 @@
 - [ThomasEngineer Website(Clay)](https://github.com/Thomacdebabo/thomasengineer_clay)
 - [Thomas Engineer Website](https://github.com/Thomacdebabo/thomas-engineer)
 - [Swipify](https://github.com/Thomacdebabo/tinderify)
+- [Bingo](https://github.com/Thomacdebabo/bingo.git)
 
 ## Computer Vision
 - [Nano VS SLAM](https://github.com/ETH-PBL/Nano-VS-SLAM)
