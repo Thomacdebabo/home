@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "2aa5eae309ecbf42",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1284b2fae0897bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3227d8116f46188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dominate males should be easy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dominate males should be easy"
+            }
+          },
+          {
+            "id": "bec60489b8df7fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dont define stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dont define stuff"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "514eb215ae235177",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2dd2463115c08af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "258953dbc9254ffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "675329384c251e60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f81b71a36b47818c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "809cc5cb137754ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a4dd6ed117e958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb0ad68f33cacca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2023-10-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2023-10-04"
+            }
+          },
+          {
+            "id": "cb624f9451a5366a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CachyOS installation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CachyOS installation"
+            }
+          },
+          {
+            "id": "fb21c9588d13a6ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec5630466034011c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d9d79b280e1c4837",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CachyOS installation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CachyOS installation"
+            }
+          },
+          {
+            "id": "fc78ddc66498cf8f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "0f0e9b3d0b077302",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "bec60489b8df7fe8",
+  "lastOpenFiles": [
+    "Git code archeology charts.md",
+    "Zettelkasten/The AI crash.md",
+    "Zettelkasten/The menosphere incels etc are not a bug they are a feature.md",
+    "Zettelkasten/Uncertainty at work.md",
+    "Zettelkasten/Tomtoms Organization System (TOS).md",
+    "Zettelkasten/Unverträglichkeit.md",
+    "Zettelkasten/What are good notes.md",
+    "Zettelkasten/What I should focus on (activism).md",
+    "Dont define stuff.md",
+    "Dominate males should be easy.md",
+    "Home.canvas",
+    "CachyOS installation.md",
+    "Excalidraw/My Desktop Data.excalidraw.md",
+    "Excalidraw/Masterthesis.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-16 11.14.05.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-20 11.10.35.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-14 18.44.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-11 21.24.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-17 14.06.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-22 17.14.14.excalidraw.md",
+    "Interiour Design.md",
+    "Home.md",
+    "Zettelkasten/Mega sync.md",
+    "My Projects.md",
+    "kinky stuff.md",
+    "Untitled.md",
+    "Pasted image 20250322222331.png",
+    "Untitled.canvas",
+    "Zettelkasten/Todays office jobs are inhumane.md",
+    "Untitled.base",
+    "Archive/Masterthesis_git/Weekly Reports/reading list/2304.07728.pdf",
+    "Archive/Masterthesis_git/Weekly Reports/reading list/2104.05347.pdf",
+    "Resources/assets/Remotesensing 14 02835 g011a.png",
+    "Resources/Programming/2024 Programming/systemprogrammingessentialswithgo.pdf",
+    "Archive/Masterthesis_git/Weekly Reports/reading list/2305.11172.pdf",
+    "Archive/Masterthesis_git/Weekly Reports/reading list/1910.02490.pdf",
+    "Archive/Masterthesis_git/Papers/SLAM/RESLAM_A_real-time_robust_edge-based_SLAM_system.pdf",
+    "Resources/assets/Remotesensing 14 02835 g011b.png",
+    "Resources/Programming/2024 Programming/systemdesignguideforsoftwareprofessionals.pdf",
+    "Resources/Programming/2024 Programming/softwaretestingstrategies.pdf",
+    "Resources/Programming/2024 Programming/nodejsdesignpatterns.pdf",
+    "Documents/RAV/to send/AHV_Ausweis.jpg",
+    "Resources/assets/function_img01.png",
+    "Resources/assets/Remotesensing 14 02835 g010.png",
+    "Resources/assets/Remotesensing 14 02835 g009b.png",
+    "Resources/assets/Remotesensing 14 02835 g009a.png",
+    "Resources/assets/Remotesensing 14 02835 g008.png",
+    "Resources/assets/Remotesensing 14 02835 g007.png"
+  ]
+}
