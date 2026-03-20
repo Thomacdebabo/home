@@ -25,3 +25,11 @@
 - [Backup Manager](https://github.com/Thomacdebabo/BackupManager)
 - [Processing Stuff](https://github.com/Thomacdebabo/ProcessingStuff)
 - [MySauna](https://github.com/Thomacdebabo/mySauna)
+
+
+# Others
+## Backup obsidian config
+```
+export VAULT_DIR=~/Documents/TomtomsVault
+cp $VAULT_DIR/.obsidian/*.json ./.obsidian
+```
